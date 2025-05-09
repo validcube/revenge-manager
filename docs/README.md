@@ -4,7 +4,7 @@ This documentation explains how to use [Revenge Manager](https://github.com/reve
 
 ## 📖 Table of contents
 
-TODO.
+1. Let there be vscode
 
 ## ⏭️ Start here
 
